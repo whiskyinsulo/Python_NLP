@@ -1,3 +1,5 @@
+# 常用中文 Stop Word - 停用詞清單
+
 | 字型|詞表名 |檔案 |
 | - | - | - |
 | 繁體中文| tomlineNTUB 版 | tomlinNTUB\.txt |
